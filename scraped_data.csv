@@ -1,0 +1,94 @@
+id,c1,c2,c3,c4,c5,c6
+0,0,0.000−26.74,Sun,,0.0,G2 V
+1,1,0.001−1.46,Sirius,α CMa,0008.6,"A0mA1 Va, DA2"
+2,2,0.003−0.74,Canopus,α Car,0310,A9 II
+3,3,0.004−0.27 (0.01 + 1.33),Rigil Kentaurus& Toliman,α Cen,0004.34,"G2 V, K1 V"
+4,4,0.005−0.05,Arcturus,α Boo,0037,K0 III
+5,5,0.03 (−0.02–0.07var),Vega,α Lyr,0025,A0 Va
+6,6,0.08 (0.03–0.16var),Capella,α Aur,0043,"K0 III, G1 III"
+7,7,0.13 (0.05–0.18var),Rigel,β Ori,0860,B8 Ia
+8,8,0.34,Procyon,α CMi,0011,F5 IV-V
+9,9,0.46 (0.40–0.46var),Achernar,α Eri,0139,B3 Vpe
+10,10,0.50 (0.0–1.6var),Betelgeuse,α Ori,0550,M1-M2 Ia-ab
+11,11,0.61,Hadar,β Cen,0390,B1 III
+12,12,0.76,Altair,α Aql,0017,A7 V
+13,13,0.76 (1.33 + 1.73),Acrux,α Cru,0320,"B0.5 IV, B1 V"
+14,14,0.86 (0.75–0.95var),Aldebaran,α Tau,0065,K5 III
+15,15,0.96 (0.6–1.6var),Antares,α Sco,0550,"M1.5 Iab-Ib, B2.5 V"
+16,16,0.97 (0.97–1.04var),Spica,α Vir,0250,"B1 III-IV, B2 V"
+17,17,1.14,Pollux,β Gem,0034,K0 III
+18,18,1.16,Fomalhaut,α PsA,0025,A3 V
+19,19,1.25 (1.21–1.29var),Deneb,α Cyg,"2,600",A2 Ia
+20,20,1.25 (1.23–1.31var),Mimosa,β Cru,0280,"B0.5 III, B2 V"
+21,21,1.39,Regulus,α Leo,0079,B8 IVn
+22,22,1.50,Adhara,ε CMa,0430,B2 II
+23,23,1.62,Shaula,λ Sco,0570,B2 IV
+24,24,1.62 (1.98 + 2.97),Castor,α Gem,0051,"A1 V, Am"
+25,25,1.64,Gacrux,γ Cru,0089,M3.5 III
+26,26,1.64,Bellatrix,γ Ori,0250,B2 III
+27,27,1.65,Elnath,β Tau/γ Aur,0130,B7 III
+28,28,1.69,Miaplacidus,β Car,0110,A1 III
+29,29,1.69 (1.64–1.74var),Alnilam,ε Ori,"2,000",B0 Ia
+30,30,1.72 (1.81–1.87var + 4.27),—,γ Vel,0840,"WC8, O7.5III"
+31,31,1.74,Alnair,α Gru,0100,B6 V
+32,32,1.77,Alnitak,ζ Ori,"01,300","O9.5 Iab, B1 IV, B0 III"
+33,33,1.77,Alioth,ε UMa,0083,A1 III-IVp kB9
+34,34,1.79,Dubhe,α UMa,0120,"K0 III, F0 V"
+35,35,1.80,Mirfak,α Per,0510,F5 Ib
+36,36,1.82,Wezen,δ CMa,"1,800",F8 Ia
+37,37,1.84,Sargas,θ Sco,0330,F0 II
+38,38,1.85,Kaus Australis,ε Sgr,0140,B9.5 III
+39,39,1.86,Avior,ε Car,0600,"K3 III, B2 Vp"
+40,40,1.86,Alkaid,η UMa,0100,B3 V
+41,41,1.90 (1.89–1.94var),Menkalinan,β Aur,080,A1mIV+A1mIV
+42,42,1.91,Atria,α TrA,0390,K2 IIb-IIIa
+43,43,1.92,Alhena,γ Gem,0100,A1.5 IV+
+44,44,1.94,Peacock,α Pav,0180,B3 V
+45,45,1.96 (1.99–2.39var + 5.57),Alsephina,δ Vel,0080,"A1 Va(n), F7.5 V"
+46,46,1.98,Mirzam,β CMa,0500,B1 II-III
+47,47,2.00,Alphard,α Hya,0180,K3 II-III
+48,48,1.98 (1.86–2.13var),Polaris,α UMi,0430,F7 Ib
+49,49,2.00,Hamal,α Ari,0066,K1 IIIb
+50,50,2.08 (2.37 + 3.64),Algieba,γ Leo,0130,"K0 III, G7 IIIb"
+51,51,2.02,Diphda,β Cet,0096,K0 III
+52,52,2.04,Mizar,ζ UMa,0083,"A2 Vp, A2 Vp, Am"
+53,53,2.05,Nunki,σ Sgr,0230,B2.5 V
+54,54,2.06,Menkent,θ Cen,0059,K0 III
+55,55,2.05 (2.01–2.10var),Mirach,β And,0200,M0 III
+56,56,2.06,Alpheratz,α And/δ Peg,0097,"B8 IVpMnHg, A3 V"
+57,57,2.07,Rasalhague,α Oph,0047,A5 III
+58,58,2.08,Kochab,β UMi,0130,K4 III
+59,59,2.09,Saiph,κ Ori,0720,B0.5 Ia
+60,60,2.11,Denebola,β Leo,0036,A3 Va
+61,61,2.12 (2.1–3.39var),Algol,β Per,0093,"B8 V, K0 IV, A7m"
+62,62,2.15 (2.0–2.3var),Tiaki,β Gru,0170,M5 III
+63,63,2.17,Muhlifain,γ Cen,0130,"A0 III, A0 III"
+64,64,2.21,Aspidiske,ι Car,0690,A9 Ib
+65,65,2.21 (2.14–2.30var),Suhail,λ Vel,0570,K4 Ib
+66,66,2.23 (2.21–2.32var),Alphecca,α CrB,0075,"A0 V, G5 V"
+67,67,2.23 (2.23–2.35var),Mintaka,δ Ori,0900,"O9.5 II, B1 V, B0 IV"
+68,68,2.23,Sadr,γ Cyg,"1,500",F8 Iab
+69,69,2.23,Eltanin,γ Dra,0150,K5 III
+70,70,2.24,Schedar,α Cas,0230,K0 IIIa
+71,71,2.25,Naos,ζ Pup,"1,080",O4 If(n)p
+72,72,2.26,Almach,γ And,0350,"K3 IIb, B9.5 V, B9.5 V, A0 V"
+73,73,2.28 (2.25–2.31var),Caph,β Cas,0054,F2 III
+74,74,2.29,Izar,ε Boo,0202,"K0 II-III, A2 V"
+75,75,2.30 (2.29–2.34var),—,α Lup,0550,B1.5 III
+76,76,2.30 (2.29–2.31var),—,ε Cen,0380,B1III
+77,77,2.31 (1.6–2.32var),Dschubba,δ Sco,0400,"B0.3 IV, B1-3 V"
+78,78,2.31,Larawag,ε Sco,0065,K1 III
+79,79,2.35 (2.30–2.41var),—,η Cen,0310,B1.5 Vne
+80,80,2.37,Merak,β UMa,0079,A1 IVps
+81,81,2.38,Ankaa,α Phe,0077,K0.5 IIIb
+82,82,2.39,—,κ Sco,0460,B1.5 III
+83,83,2.40 (0.7–3.0var),Enif,ε Peg,0670,K2 Ib
+84,84,2.42 (2.31–2.74var),Scheat,β Peg,0200,M2.5 II-IIIe
+85,85,2.43,Sabik,η Oph,0088,"A1 IV, A1 IV"
+86,86,2.44,Phecda,γ UMa,0084,A0 Ve
+87,87,2.45,Aludra,η CMa,"2,000",B5 Ia
+88,88,2.46,Markeb,κ Vel,0540,B2 IV
+89,89,2.47 (1.6–3.0var),—,γ Cas,0610,B0.5 IVe
+90,90,2.48,Markab,α Peg,0140,A0 IV
+91,91,2.48,Aljanah,ε Cyg,0072,K0 III-IV
+92,92,2.50,Acrab,β Sco,0404,"B0.5 IV-V, B1.5 V, B2 V"
